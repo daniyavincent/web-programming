@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>
+</title>
+</head>
+<body>
+<b><u>NAME:</u></b><p>Daniya Vincent V</p>
+<b><u>ADDRESS:</u></b><p>MountZion college <br> kadammanitta <br> pathanamthitta</p>
+<b><u>PHONE NUMBER:</u></b><p>1001001001</p>
+<b><u>EMAIL:</u></b><p>daniyavincent10175@gmail.com</p>
+<b><u>QUALIFICATION:</u></b>
+<table width="150" border="1">
+<tr>
+<th>course</th>
+<th>year</th>
+<th>percentage</th>
+</tr>
+<tr>
+<td>sslc</td>
+<td>2014</td>
+<td>90</td>
+</tr>
+<tr>
+<td>+2</td>
+<td>2016</td>
+<td>75</td>
+</tr>
+<tr>
+<td>bca</td>
+<td>2019</td>
+<td>69</td>
+</tr>
+<b><u>:</u></b><p></p>
+</body>
+
+</html>

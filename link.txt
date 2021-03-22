@@ -1,0 +1,7 @@
+<html>
+<body>
+<a href="table.html">
+<img src="Jellyfish.jpg" border="0" alt="logo" width="50%">
+</a>
+</body>
+</html>

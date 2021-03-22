@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+<table width="150" border="1">
+<tr>
+<th>name</th>
+<th>course</th>
+<th>age</th>
+</tr>
+<tr>
+<td>supa</td>
+<td>mca</td>
+<td>23</td>
+</tr>
+<tr>
+<td>daniya</td>
+<td>mca</td>
+<td>21</td>
+</tr>
+<tr>
+<td>divya</td>
+<td>mca</td>
+<td>21</td>
+</tr>
+<tr>
+<td>muscle aliyan</td>
+<td>mca</td>
+<td>21</td>
+</tr>
+<tr>
+<td>kannadi</td>
+<td>mca</td>
+<td>23</td>
+</tr>
+</body>
+</html>
+
+
